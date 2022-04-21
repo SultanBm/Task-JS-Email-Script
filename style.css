@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+.border1{
+
+    width:1440px; 
+    height:640px; 
+    padding:20px; 
+    text-align:center; 
+    border: 10px solid #000000
+}
+.border2{
+    width:1380px; 
+    height:600px; 
+    padding:20px; 
+    text-align:center; 
+    border: 5px solid #000000
+}
+.title{
+    font-size:50px; 
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subtitle{
+    font-size:25px;
+    font-family: 'Times New Roman', Times, serif;
+}
